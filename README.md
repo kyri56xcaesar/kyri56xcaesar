@@ -32,8 +32,8 @@ From backend systems to full-fledged applications, I've spent the past few years
 ## 📂 Featured Projects
 
 Check out some of my projects right here on GitHub:
-- ⛵ Distributed systems with custom APIs
-- 🔐 Auth and user/group management with Keycloak and JWT
+- ⛵ Distributed systems with custom APIs a Map-Reduce educational engine.
+- 🔐 Auth and user/group management with JWT, a minimal dev tool.
 - 🧪 Interactive job management using DuckDB, Kubernetes Jobs, and WebSockets
 - 📊 Lightweight virtual file system APIs with UNIX-style permissions
 
